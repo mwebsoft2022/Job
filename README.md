@@ -1,2 +1,5 @@
 # Job
-Hello Welcome to soft ware job
+Hello Welcome to software job
+
+You git a promission
+
